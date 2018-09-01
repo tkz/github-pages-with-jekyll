@@ -1,15 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: 曰困固
+author: 范冰冰
+email: 范冰冰@Qingdao.com
+description: > # I got broads in Atlanta
+  Twistin' dope, lean, and the Fanta
+  Credit cards and the scammers
+  Hittin' off licks in the bando
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: 范冰冰
+github_username:  范冰冰
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-time-machine
+theme: minima
